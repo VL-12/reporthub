@@ -7,3 +7,7 @@
 - Python
 - Flask
 - SQLite
+
+## Status
+
+Project is under development.
