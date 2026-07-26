@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "ReportHub работает!"
+    return "ReportHub версия TWO"
 
 
 @app.route("/health")
