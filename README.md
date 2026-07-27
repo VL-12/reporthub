@@ -17,3 +17,5 @@ Testing GitHub Issue workflow
 Main branch update from another developer
 
 Изменение 1
+
+Изменение 2
