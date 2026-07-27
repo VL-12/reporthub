@@ -12,4 +12,4 @@
 
 Project is under development.
 
-Test issue #3
+Testing GitHub Issue workflow
